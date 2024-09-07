@@ -1,3 +1,3 @@
 
-The backend blog writing website has real-time updates and deletion features with a clean UI.
+The backend blog writing website has real-time updates and removal features with a clean UI.
  
